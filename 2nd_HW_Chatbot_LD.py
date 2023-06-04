@@ -14,7 +14,7 @@
 # 필요한 라이브러리 불러오기
 
 import pandas as pd                         # 질문&답변 데이터(ChatbotData.csv)를 로드하기 위해 pandas 라이브러리를 불러옴
-import numpy as np
+import numpy as np                          # 최솟값을 갖는 인덱스를 찾기 위해 (argmin) numpy 라이브러리 불러옴
 
 # <챗봇 구현>
 
